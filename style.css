@@ -1,0 +1,77 @@
+.navbar {
+    background-color: blanchedalmond;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.flexcentre {
+   
+    
+    display: flex;
+    justify-content: center;
+}
+#hotpot {
+    text-align: center;
+    
+}
+#coffeebar {
+
+    justify-content: center;
+    display: flex;
+    padding: 100px;
+}
+.footer {
+    background-color: blanchedalmond;
+    justify-content: space-evenly;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+.drinksmenu {
+    justify-content: space-between;
+    display: flex;
+    padding: 50px;
+}
+#drinks {
+    justify-content: center;
+    display: flex;
+}
+#pastry {
+    justify-content: center;
+    display: flex;
+    
+}
+.pastrymenu {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+   
+    justify-content: space-between;
+}
+.drinkitem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#introtext {
+    text-align: center;
+}
+#menuofpastry {
+text-align: center;
+}
+.pastry {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#para {
+    text-align: center;
+}
+#para2 {
+    text-align: center;
+}
